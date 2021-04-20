@@ -1,3 +1,4 @@
+#region Moving Mechanic
 if(keyboard_check(ord("W")) && place_free(x, y - cospeed))
 {
 	sprite_index = spr_walkingback;
@@ -32,7 +33,6 @@ depth = -y;
 if(keyboard_check(vk_nokey))
 {
 	
-	
 	if(sprite_index = spr_walkingfront)
 	{
 		sprite_index = spr_mainc;
@@ -55,7 +55,7 @@ if(keyboard_check(vk_nokey))
 	}
 }
 
-
+/*
 if(x<16)
 {
 	x=16;
@@ -72,3 +72,41 @@ if(y>room_height-sprite_height/2)
 {
 	y=room_height-sprite_height/2;
 }
+*/
+
+x = clamp(x,sprite_width/2,room_width-(sprite_width/2));
+y = clamp(y,sprite_height/2,room_height-(sprite_height/2));
+
+
+#endregion
+
+#region Collisions
+
+/*
+var canmove;
+for(i = 1; i <= abs(move_x); i++)
+{
+	canmove = true;
+	if(place_meeting(x+sign(move_x)*i, y, obj_Wall)) canmove = false;
+	
+	
+	if (canmove == true) 
+	{
+		x += sign(move_x);
+	}
+}
+
+for(i = 1; i <= abs(move_y); i++)
+{
+	canmove = true;
+	if(place_meeting(x+sign(move_y)*i, y, obj_Wall)) canmove = false;
+	
+	
+	if (canmove == true) 
+	{
+		x += sign(move_y);
+	}
+}
+*/
+
+#endregion
