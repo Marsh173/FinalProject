@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Living_Room",
+    "path": "folders/Objects/Living_Room.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_icon",

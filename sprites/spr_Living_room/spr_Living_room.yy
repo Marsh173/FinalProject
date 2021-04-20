@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 599,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 599,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 600,
+  "height": 600,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a7246644-1650-451d-8011-8ae8223b0705","path":"sprites/spr_Living_room/spr_Living_room.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a7246644-1650-451d-8011-8ae8223b0705","path":"sprites/spr_Living_room/spr_Living_room.yy",},"LayerId":{"name":"7445be33-539b-4393-abd4-af6092018fc9","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Living_room","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","name":"a7246644-1650-451d-8011-8ae8223b0705","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1ec9df61-4256-4907-a3c5-bf85ef03c4ff","path":"sprites/spr_Living_room/spr_Living_room.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1ec9df61-4256-4907-a3c5-bf85ef03c4ff","path":"sprites/spr_Living_room/spr_Living_room.yy",},"LayerId":{"name":"0b839a5e-d8c8-4d31-89cc-bd8cef312cb1","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Living_room","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","name":"1ec9df61-4256-4907-a3c5-bf85ef03c4ff","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_Living_room","path":"sprites/spr_Living_room/spr_Living_room.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c376998b-b1b5-4820-aa21-32e9a26a5560","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a7246644-1650-451d-8011-8ae8223b0705","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ad999178-891b-42b1-9574-b8ded25786c9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1ec9df61-4256-4907-a3c5-bf85ef03c4ff","path":"sprites/spr_Living_room/spr_Living_room.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7445be33-539b-4393-abd4-af6092018fc9","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0b839a5e-d8c8-4d31-89cc-bd8cef312cb1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
