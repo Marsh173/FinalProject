@@ -5,6 +5,7 @@
     {"id":{"name":"spr_Living_room","path":"sprites/spr_Living_room/spr_Living_room.yy",},"order":1,},
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},"order":1,},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},"order":0,},
+    {"id":{"name":"obj_icon","path":"objects/obj_icon/obj_icon.yy",},"order":1,},
     {"id":{"name":"spr_walkingback","path":"sprites/spr_walkingback/spr_walkingback.yy",},"order":1,},
     {"id":{"name":"spr_walkingfront","path":"sprites/spr_walkingfront/spr_walkingfront.yy",},"order":2,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":2,},
