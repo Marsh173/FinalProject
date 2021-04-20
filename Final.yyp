@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
@@ -23,7 +23,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},},
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
   ],
   "Folders": [
