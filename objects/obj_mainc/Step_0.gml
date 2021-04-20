@@ -2,13 +2,13 @@ if(keyboard_check(ord("W")) && place_free(x, y - cospeed))
 {
 	sprite_index = spr_walkingback;
 	y -= movespeed;
-	image_xscale = 1;
+	image_xscale = image_xscale;
 	
 }
 else if(keyboard_check(ord("A")) && place_free(x - cospeed, y))
 {
 	sprite_index = spr_walkingside
-	image_xscale = -1;
+	image_xscale = -image_xscale;
 	x -= movespeed;
 }
 
@@ -16,7 +16,7 @@ else if(keyboard_check(ord("S")) && place_free(x, y + cospeed))
 {
 	sprite_index = spr_walkingfront;
 	y += movespeed;
-	image_xscale = 1;
+	image_xscale =  image_xscale;
 	
 }
 
@@ -24,7 +24,7 @@ else if(keyboard_check(ord("D")) && place_free(x + cospeed, y))
 {
 	sprite_index = spr_walkingside;
 	x += movespeed;
-	image_xscale = 1;
+	image_xscale = image_xscale;
 	
 }
 depth = -y;
