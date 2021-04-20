@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_Living_room","path":"sprites/spr_Living_room/spr_Living_room.yy",},"order":1,},
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},"order":1,},
     {"id":{"name":"spr_mainc","path":"sprites/spr_mainc/spr_mainc.yy",},"order":0,},
     {"id":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},"order":0,},
