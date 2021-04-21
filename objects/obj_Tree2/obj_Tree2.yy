@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "spr_interactive_block",
-    "path": "sprites/spr_interactive_block/spr_interactive_block.yy",
+    "name": "spr_Tree2",
+    "path": "sprites/spr_Tree2/spr_Tree2.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -22,17 +22,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Living_Room",
-    "path": "folders/Objects/Living_Room.yy",
+    "name": "Forest",
+    "path": "folders/Objects/Forest.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tead",
+  "name": "obj_Tree2",
   "tags": [],
   "resourceType": "GMObject",
 }
