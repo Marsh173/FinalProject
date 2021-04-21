@@ -20,6 +20,7 @@
     {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":2,},
     {"id":{"name":"obj_Tree2","path":"objects/obj_Tree2/obj_Tree2.yy",},"order":1,},
     {"id":{"name":"obj_initial","path":"objects/obj_initial/obj_initial.yy",},"order":8,},
+    {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":2,},
     {"id":{"name":"spr_tea","path":"sprites/spr_tea/spr_tea.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":6,},
     {"id":{"name":"obj_tea","path":"objects/obj_tea/obj_tea.yy",},"order":0,},
