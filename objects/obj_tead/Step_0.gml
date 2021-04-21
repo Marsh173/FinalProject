@@ -8,7 +8,7 @@ if(distance_to_object(obj_mainc)<20)
 	
 	if(keyboard_check(ord("E")))
 	{
-		image_index = 1;
+		obj_tea.image_index = 1;
 	}
 	//sound
 }
@@ -19,7 +19,7 @@ else if(distance_to_object(obj_mainc)>20)
 	next = 0;
 }
 
-if(image_index = 1)
+if(obj_tea.image_index = 1)
 {
 	letter += 0.5;
 	show = string_copy(text,1,letter);
