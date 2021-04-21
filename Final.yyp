@@ -14,6 +14,7 @@
     {"id":{"name":"spr_sofa","path":"sprites/spr_sofa/spr_sofa.yy",},"order":4,},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"order":3,},
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},"order":1,},
+    {"id":{"name":"obj_Cthulu","path":"objects/obj_Cthulu/obj_Cthulu.yy",},"order":7,},
     {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":4,},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":6,},

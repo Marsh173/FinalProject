@@ -3,8 +3,6 @@ text_Cthulhu = "A Weird Sculpture. It's huge.";
 
 ds_list_add(sentence, text_Cthulhu);
 
-
-
 index = 0;
 
 sentence = ds_list_find_value(sentence, 0);
