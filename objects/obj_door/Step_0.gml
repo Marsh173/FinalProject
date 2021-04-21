@@ -1,4 +1,4 @@
-if(distance_to_object(obj_mainc)<30)
+if(distance_to_object(obj_mainc)<5)
 {
 	Go_out = true; //for obj_dialog
 	

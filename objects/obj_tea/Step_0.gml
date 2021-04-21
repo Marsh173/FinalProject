@@ -3,29 +3,28 @@ if(distance_to_object(obj_mainc)<20)
 {
 	letter += 0.5;
 	show = string_copy(text,1,letter);
-	text = instru[next];
-	
-	
+		
 	if(keyboard_check(ord("E")))
 	{
-		obj_tea.image_index = 1;
+		if(image_index == 0)
+		{
+			image_index = 1;
+			letter = 0;
+			next = 1;
+		}
+		
+		//if(image_index == 1)
+		//{
+		//	letter = 0;
+		//	next = 2;
+		//}
+		//sound
 	}
-	
-	//sound
+	text = dialog[next];
 }
-else if(distance_to_object(obj_mainc)>20)
+else
 {
 	show = "";
 	letter = 0;
-	next = 0;
 }
 
-
-if(obj_tea.image_index = 1)
-{
-	
-	show_debug_message("Tea!");
-	letter += 0.5;
-	text = dialog[next];
-	show = string_copy(text,1,letter);
-}
