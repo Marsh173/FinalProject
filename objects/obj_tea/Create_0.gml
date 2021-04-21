@@ -1,4 +1,5 @@
 
+
 image_index = 0;
 
 text = "";
@@ -9,3 +10,5 @@ next = 0;
 
 instru[0] = "Press E to drink";
 dialog[0] = "I feel a bit relieved...";
+
+depth = -y;
