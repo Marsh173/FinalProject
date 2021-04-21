@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"eac717dc-ca75-4ebc-bdb3-fac75821a811","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":30.0,"displayName":"default","resourceVersion":"1.0","name":"eac717dc-ca75-4ebc-bdb3-fac75821a811","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Main",
+    "path": "folders/Sprites/Main.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_interactive_block",
