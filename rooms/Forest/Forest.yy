@@ -24,9 +24,9 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_5F3F2B93","path":"rooms/Forest/Forest.yy",},
-    {"name":"inst_2FE5D4F6","path":"rooms/Forest/Forest.yy",},
-    {"name":"inst_64068EDC","path":"rooms/Forest/Forest.yy",},
+    {"name":"Forest","path":"rooms/Forest/Forest.yy",},
+    {"name":"Forest","path":"rooms/Forest/Forest.yy",},
+    {"name":"Forest","path":"rooms/Forest/Forest.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
