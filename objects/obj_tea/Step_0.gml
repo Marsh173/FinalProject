@@ -23,7 +23,9 @@ else if(distance_to_object(obj_mainc)>20)
 
 if(obj_tea.image_index = 1)
 {
+	
+	show_debug_message("Tea!");
 	letter += 0.5;
-	show = string_copy(text,1,letter);
 	text = dialog[next];
+	show = string_copy(text,1,letter);
 }
