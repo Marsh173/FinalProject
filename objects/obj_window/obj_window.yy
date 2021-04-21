@@ -4,7 +4,7 @@
     "path": "sprites/spr_interactive_block/spr_interactive_block.yy",
   },
   "solid": true,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
