@@ -1,4 +1,4 @@
-if(distance_to_object(obj_mainc)<8)
+if(distance_to_object(obj_mainc)<10)
 {
 	Go_out = true; //for obj_dialog
 	global.toGlitch = true;
