@@ -1,2 +1,7 @@
+text = "";
+show = "";
 
-text_Cthulhu = "A Weird Sculpture. It's huge...";
+letter = 0;
+next = 0;
+
+dialog[0] = "A Weird Sculpture. It's huge...";
