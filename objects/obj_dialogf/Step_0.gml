@@ -15,7 +15,7 @@ else if (global.begin_text)
 }
 */
 
-if(obj_mainc.x = sprite_width/2 || obj_mainc.x = room_width - sprite_width/2 || obj_mainc.y = room_height - sprite_height/2)
+if(obj_mainc.y > room_height - sprite_height/2-25)
 {
 	room_goto(Forest_run);
 }
