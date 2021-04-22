@@ -1,9 +1,9 @@
 sentence = ds_list_create();
 text_Cthulhu = "A Weird Sculpture. It's huge...";
 
-text_Thirsty = "Oh, it's finally over. Let me get something to drink, I'm thirsty...";
+text_Thirsty = "It's finally over. I'm thirsty as hell...";
 
-text_GoOut = "The room's getting stuffy, I'll go out to have some fresh air...";
+text_GoOut = "The room's getting stuffy, I'm getting out to have some fresh air...";
 
 ds_list_add(sentence, text_Thirsty, text_GoOut);
 

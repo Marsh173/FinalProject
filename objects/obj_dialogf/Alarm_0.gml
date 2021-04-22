@@ -1,7 +1,7 @@
 
 if(index < string_length(sentence))
 {
-	obj_dialog.visible = true;
+	//obj_dialog.visible = true;
 	index++;
 	
 	//sound?

@@ -1,4 +1,4 @@
-
+/*
 if(obj_door.Go_out) 
 {
 	//index = 0;

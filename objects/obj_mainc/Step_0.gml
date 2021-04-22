@@ -57,33 +57,3 @@ y = clamp(y,sprite_height/2,room_height-(sprite_height/2));
 
 #endregion
 
-#region Collisions
-
-/*
-var canmove;
-for(i = 1; i <= abs(move_x); i++)
-{
-	canmove = true;
-	if(place_meeting(x+sign(move_x)*i, y, obj_Wall)) canmove = false;
-	
-	
-	if (canmove == true) 
-	{
-		x += sign(move_x);
-	}
-}
-
-for(i = 1; i <= abs(move_y); i++)
-{
-	canmove = true;
-	if(place_meeting(x+sign(move_y)*i, y, obj_Wall)) canmove = false;
-	
-	
-	if (canmove == true) 
-	{
-		x += sign(move_y);
-	}
-}
-*/
-
-#endregion

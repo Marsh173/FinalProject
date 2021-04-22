@@ -1,6 +1,8 @@
 sentence = ds_list_create();
 
-text_surprise = "What? How am I in a forest?? I was just in the city!";
+//text_surprise = "What? How am I in a forest?? I was just in the city!"; 
+text_surprise = "Huh, guess I'm in a forest now. \nOh, look at that damn bird..."; 
+//meta  text_to_player = "That's where you want me to go? A forest? Do you even know what logic is?";
 
 ds_list_add(sentence, text_surprise);
 
@@ -12,6 +14,6 @@ var interval = random_range(0.02, 0.06);
 alarm[0] = room_speed * interval;
 
 global.begin_text = false;
-obj_dialog.visible = false;
+//obj_dialogf.visible = false;
 
 depth = -y;

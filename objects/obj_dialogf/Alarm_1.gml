@@ -1,2 +1,2 @@
-obj_dialog.visible = false;
+obj_dialogf.visible = false;
 index = 0;

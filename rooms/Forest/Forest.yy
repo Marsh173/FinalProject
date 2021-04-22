@@ -17,6 +17,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_DeadBird","path":"objects/obj_DeadBird/obj_DeadBird.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.92968738,"scaleY":1.92968738,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":425.0,"y":434.5,"resourceVersion":"1.0","name":"inst_68E7ECED","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_HeadlessFriends","path":"objects/obj_HeadlessFriends/obj_HeadlessFriends.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.5,"scaleY":2.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":300.0,"y":28.0,"resourceVersion":"1.0","name":"inst_358125DB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_dialogf","path":"objects/obj_dialogf/obj_dialogf.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":90.0,"y":514.0,"resourceVersion":"1.0","name":"inst_70D5FDB5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Glitch","path":"objects/obj_Glitch/obj_Glitch.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":320.0,"resourceVersion":"1.0","name":"inst_20DA53DF","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UIs","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_roadsign","path":"objects/obj_roadsign/obj_roadsign.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.2,"scaleY":1.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":370.8,"y":144.0,"resourceVersion":"1.0","name":"inst_6CB74DAC","tags":[],"resourceType":"GMRInstance",},
@@ -54,6 +55,7 @@
     {"name":"inst_6CB74DAC","path":"rooms/Forest/Forest.yy",},
     {"name":"inst_358125DB","path":"rooms/Forest/Forest.yy",},
     {"name":"inst_70D5FDB5","path":"rooms/Forest/Forest.yy",},
+    {"name":"inst_20DA53DF","path":"rooms/Forest/Forest.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

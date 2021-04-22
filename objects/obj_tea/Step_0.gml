@@ -6,6 +6,8 @@ if(distance_to_object(obj_mainc)<20)
 		
 	if(keyboard_check(ord("E")))
 	{
+		global.toGlitch = true;
+
 		if(image_index == 0)
 		{
 			image_index = 1;
@@ -26,5 +28,6 @@ else
 {
 	show = "";
 	letter = 0;
+	global.toGlitch = false;
 }
 
