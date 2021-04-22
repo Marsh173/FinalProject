@@ -2,7 +2,7 @@ sentence = ds_list_create();
 
 text_Thirsty = "It's finally over. I'm thirsty as hell...";
 
-text_GoOut = "The room's getting stuffy, I'm getting out to have some fresh air...";
+text_GoOut = "The room is getting stuffy, I'm getting out to have some fresh air...";
 
 ds_list_add(sentence, text_Thirsty, text_GoOut);
 
