@@ -1,5 +1,4 @@
 sentence = ds_list_create();
-text_Cthulhu = "A Weird Sculpture. It's huge...";
 
 text_Thirsty = "It's finally over. I'm thirsty as hell...";
 
@@ -18,3 +17,5 @@ global.begin_text = false;
 obj_dialog.visible = false;
 
 depth = -y;
+
+global.back = false;

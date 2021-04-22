@@ -6,4 +6,4 @@ show = "";
 letter = 0;
 next = 0;
 
-dialog[0] = "What kind of sign is this???\nNot the sort I'd design...";
+dialog[0] = "What..?\nNot the sort I'd design...";

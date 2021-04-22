@@ -24,7 +24,7 @@ else if(keyboard_check(ord("D")) && place_free(x + cospeed, y))
 	x += movespeed;
 	
 }
-depth = -y;
+
 
 if(keyboard_check(vk_nokey))
 {
@@ -57,3 +57,14 @@ y = clamp(y,sprite_height/2,room_height-(sprite_height/2));
 
 #endregion
 
+if(room = Forest)
+{
+	timer ++;
+	if(timer = 1)
+	{
+		x = 400;
+		y = 260;
+	}
+}
+
+depth = -y;
