@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Living_Room",
-    "path": "folders/Objects/Living_Room.yy",
+    "name": "Forest",
+    "path": "folders/Objects/Forest.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dialog",
+  "name": "obj_dialogf",
   "tags": [],
   "resourceType": "GMObject",
 }
