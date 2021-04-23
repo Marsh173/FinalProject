@@ -8,5 +8,5 @@ draw_set_halign(fa_left);
 
 if(dead && obj_DeadBird.visible)
 {
-	draw_text(180,575,show);
+	draw_text(x-160,y+70,show);
 }

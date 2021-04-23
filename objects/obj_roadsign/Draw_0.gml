@@ -8,5 +8,5 @@ draw_set_halign(fa_left);
 
 if(obj_HeadlessFriends.visible)
 {
-	draw_text(200,room_height/2,show);
+	draw_text_ext_transformed(150,y,show,20,200,1,1,0);
 }
