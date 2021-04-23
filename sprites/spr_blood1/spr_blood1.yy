@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 30,
-  "bbox_top": 0,
-  "bbox_bottom": 30,
+  "bbox_left": 3,
+  "bbox_right": 28,
+  "bbox_top": 9,
+  "bbox_bottom": 24,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"LayerId":{"name":"53dcb573-e2f0-459f-a9d0-f807cd7dce09","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","name":"bff3d914-050b-49fc-b974-9500c461b417","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1474f0dd-5360-48c0-b439-712d8dcd3907","path":"sprites/spr_blood1/spr_blood1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1474f0dd-5360-48c0-b439-712d8dcd3907","path":"sprites/spr_blood1/spr_blood1.yy",},"LayerId":{"name":"94cdb366-7cf5-49ee-a9f1-0e5b23102cc1","path":"sprites/spr_blood1/spr_blood1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_blood1","path":"sprites/spr_blood1/spr_blood1.yy",},"resourceVersion":"1.0","name":"1474f0dd-5360-48c0-b439-712d8dcd3907","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},
+    "spriteId": {"name":"spr_blood1","path":"sprites/spr_blood1/spr_blood1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"62e4084d-b0b1-4e17-a202-1a4a8886e1df","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fd30210a-d5d6-4dac-98c2-5a2d8c35bda1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1474f0dd-5360-48c0-b439-712d8dcd3907","path":"sprites/spr_blood1/spr_blood1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},
+    "parent": {"name":"spr_blood1","path":"sprites/spr_blood1/spr_blood1.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_hand",
+    "name": "spr_blood1",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"53dcb573-e2f0-459f-a9d0-f807cd7dce09","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"94cdb366-7cf5-49ee-a9f1-0e5b23102cc1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Creepy_Forest/body_parts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_hand",
+  "name": "spr_blood1",
   "tags": [],
   "resourceType": "GMSprite",
 }
