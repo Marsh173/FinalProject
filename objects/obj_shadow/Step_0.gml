@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(obj_mainc.y < 660)
+if(obj_mainc.y >1100)
 {
 	x  -= xspeed;
 }
