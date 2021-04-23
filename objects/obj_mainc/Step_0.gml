@@ -59,11 +59,23 @@ y = clamp(y,sprite_height/2,room_height-(sprite_height/2));
 
 if(room = Forest)
 {
+	timer2 = 0;
 	timer ++;
 	if(timer = 1)
 	{
 		x = 400;
 		y = 260;
+	}
+}
+
+if(room = Forest_run)
+{
+	timer = 0;
+	timer2 ++;
+	if(timer2 = 1)
+	{
+		x = room_width/2;
+		y = 50;
 	}
 }
 

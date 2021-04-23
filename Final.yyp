@@ -40,6 +40,7 @@
     {"id":{"name":"obj_Tree","path":"objects/obj_Tree/obj_Tree.yy",},"order":1,},
     {"id":{"name":"spr_pile_big_sign","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"order":7,},
     {"id":{"name":"obj_initial","path":"objects/obj_initial/obj_initial.yy",},"order":7,},
+    {"id":{"name":"obj_dialogf2","path":"objects/obj_dialogf2/obj_dialogf2.yy",},"order":4,},
     {"id":{"name":"obj_DeadBird","path":"objects/obj_DeadBird/obj_DeadBird.yy",},"order":4,},
     {"id":{"name":"obj_roadsign","path":"objects/obj_roadsign/obj_roadsign.yy",},"order":5,},
     {"id":{"name":"spr_tea","path":"sprites/spr_tea/spr_tea.yy",},"order":0,},

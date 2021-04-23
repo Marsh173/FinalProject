@@ -10,4 +10,12 @@ if(instance_exists(obj_mainc))
 
 camera_set_view_pos(view_camera[0],x-view_wport[0]/2, y-view_hport[0]/2);
 
+//if(room = Forest_run)
+//{
+//	if(obj_mainc.y < sprite_height/2+50)
+//	{
+//		room_goto(Forest);
+//	}
+//}
+
 

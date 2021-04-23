@@ -3,7 +3,7 @@
 if(distance_to_object(obj_mainc)<200 && mouse_check_button(mb_left) && global.pickup = true)
 {
 	image_index = 1;
-	y = 360;
+	y = 370;
 	dead = true;
 }
 

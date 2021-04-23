@@ -8,5 +8,10 @@ draw_set_halign(fa_left);
 
 if(dead && obj_DeadBird.visible)
 {
-	draw_text(x-160,y+20,show);
+	draw_text(x-170,y+30,show);
+}
+
+if(distance_to_object(obj_mainc)<10 && dead)
+{
+	draw_text(x-10,y-30,"E");
 }
