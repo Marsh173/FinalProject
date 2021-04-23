@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 3,
-  "bbox_right": 28,
+  "bbox_left": 4,
+  "bbox_right": 27,
   "bbox_top": 9,
-  "bbox_bottom": 24,
+  "bbox_bottom": 20,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"51923347-4f11-4ba6-8d7e-5075777b8294","path":"sprites/spr_Blood/spr_Blood.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"51923347-4f11-4ba6-8d7e-5075777b8294","path":"sprites/spr_Blood/spr_Blood.yy",},"LayerId":{"name":"33d3a40b-6258-4b2a-a6f7-840fb380ea75","path":"sprites/spr_Blood/spr_Blood.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Blood","path":"sprites/spr_Blood/spr_Blood.yy",},"resourceVersion":"1.0","name":"51923347-4f11-4ba6-8d7e-5075777b8294","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f5454c44-c588-437c-a476-d2226865c3d6","path":"sprites/spr_blood/spr_blood.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f5454c44-c588-437c-a476-d2226865c3d6","path":"sprites/spr_blood/spr_blood.yy",},"LayerId":{"name":"053c0191-d2d6-4da1-b686-716efaf83604","path":"sprites/spr_blood/spr_blood.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_blood","path":"sprites/spr_blood/spr_blood.yy",},"resourceVersion":"1.0","name":"f5454c44-c588-437c-a476-d2226865c3d6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_Blood","path":"sprites/spr_Blood/spr_Blood.yy",},
+    "spriteId": {"name":"spr_blood","path":"sprites/spr_blood/spr_blood.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6061784c-4f0d-4437-b8d0-faeb2ab208a6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51923347-4f11-4ba6-8d7e-5075777b8294","path":"sprites/spr_Blood/spr_Blood.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"882694cd-35c4-481a-851e-29e2e8ded8d2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f5454c44-c588-437c-a476-d2226865c3d6","path":"sprites/spr_blood/spr_blood.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_Blood","path":"sprites/spr_Blood/spr_Blood.yy",},
+    "parent": {"name":"spr_blood","path":"sprites/spr_blood/spr_blood.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_Blood",
+    "name": "spr_blood",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"33d3a40b-6258-4b2a-a6f7-840fb380ea75","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"053c0191-d2d6-4da1-b686-716efaf83604","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "body_part",
-    "path": "folders/Sprites/Creepy_Forest/body_part.yy",
+    "name": "body_parts",
+    "path": "folders/Sprites/Creepy_Forest/body_parts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_Blood",
+  "name": "spr_blood",
   "tags": [],
   "resourceType": "GMSprite",
 }

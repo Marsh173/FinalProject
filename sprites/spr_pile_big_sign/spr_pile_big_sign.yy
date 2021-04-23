@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 30,
-  "bbox_top": 0,
-  "bbox_bottom": 30,
+  "bbox_left": 1,
+  "bbox_right": 199,
+  "bbox_top": 3,
+  "bbox_bottom": 195,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 32,
-  "height": 32,
+  "width": 200,
+  "height": 200,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"LayerId":{"name":"53dcb573-e2f0-459f-a9d0-f807cd7dce09","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","name":"bff3d914-050b-49fc-b974-9500c461b417","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d900a05d-abc0-4abc-bf54-15a3c9cabb95","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d900a05d-abc0-4abc-bf54-15a3c9cabb95","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"LayerId":{"name":"a84b88f2-2ab0-4aeb-b332-ab330929f993","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pile_big_sign","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"resourceVersion":"1.0","name":"d900a05d-abc0-4abc-bf54-15a3c9cabb95","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},
+    "spriteId": {"name":"spr_pile_big_sign","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"62e4084d-b0b1-4e17-a202-1a4a8886e1df","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bff3d914-050b-49fc-b974-9500c461b417","path":"sprites/spr_hand/spr_hand.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"588da422-435e-4e2b-9b6c-dc0662318dc0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d900a05d-abc0-4abc-bf54-15a3c9cabb95","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},
+    "parent": {"name":"spr_pile_big_sign","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_hand",
+    "name": "spr_pile_big_sign",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"53dcb573-e2f0-459f-a9d0-f807cd7dce09","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a84b88f2-2ab0-4aeb-b332-ab330929f993","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Creepy_Forest/body_parts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_hand",
+  "name": "spr_pile_big_sign",
   "tags": [],
   "resourceType": "GMSprite",
 }
