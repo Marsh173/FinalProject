@@ -17,5 +17,5 @@ else if (global.begin_text)
 
 if(obj_mainc.y > room_height - sprite_height/2-50)
 {
-	room_goto(Forest_run);
+	room_goto(Forest_cg);
 }
