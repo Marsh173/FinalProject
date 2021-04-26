@@ -1,1 +1,0 @@
-room_goto(Forest_run);

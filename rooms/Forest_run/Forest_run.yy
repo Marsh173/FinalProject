@@ -24,6 +24,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_monster","path":"objects/obj_monster/obj_monster.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":1679.0,"resourceVersion":"1.0","name":"inst_484F524C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Glitch","path":"objects/obj_Glitch/obj_Glitch.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":1472.0,"resourceVersion":"1.0","name":"inst_47BDBE4C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_dialogf2","path":"objects/obj_dialogf2/obj_dialogf2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":708.0,"y":22.0,"resourceVersion":"1.0","name":"inst_37A132F6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_cut","path":"objects/obj_cut/obj_cut.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":7.90625048,"scaleY":0.34375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":653.0,"y":1523.0,"resourceVersion":"1.0","name":"inst_4007AFBE","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Tree","path":"objects/obj_Tree/obj_Tree.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":618.0,"y":1501.0,"resourceVersion":"1.0","name":"inst_36E20A1D","tags":[],"resourceType":"GMRInstance",},
@@ -296,6 +297,7 @@
     {"name":"inst_47BDBE4C","path":"rooms/Forest_run/Forest_run.yy",},
     {"name":"inst_37A132F6","path":"rooms/Forest_run/Forest_run.yy",},
     {"name":"inst_484F524C","path":"rooms/Forest_run/Forest_run.yy",},
+    {"name":"inst_4007AFBE","path":"rooms/Forest_run/Forest_run.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

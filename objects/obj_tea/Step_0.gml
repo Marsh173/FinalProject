@@ -1,5 +1,5 @@
 
-if(distance_to_object(obj_mainc)<20)
+if(distance_to_object(obj_mainc)<25)
 {
 	letter += 0.5;
 	show = string_copy(text,1,letter);

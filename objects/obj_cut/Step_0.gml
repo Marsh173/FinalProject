@@ -1,11 +1,12 @@
+/// @description Insert description here
+// You can write your code in this editor
 frames ++;
-timer ++;
 if(!fadeout)
 {
 	alpha = max(alpha - 0.02,0);
 }
 
-if(timer > 4*room_speed)
+if(place_meeting(x,y-20,obj_mainc))
 {
 	fadeout = 1;
 }
@@ -16,5 +17,5 @@ if(fadeout)
 }
 if(alpha = 1)
 {
-	room_goto(Forest_run);
+	room_goto(Face_monster);
 }

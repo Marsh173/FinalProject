@@ -16,6 +16,7 @@
     {"id":{"name":"spr_hang","path":"sprites/spr_hang/spr_hang.yy",},"order":2,},
     {"id":{"name":"spr_head","path":"sprites/spr_head/spr_head.yy",},"order":5,},
     {"id":{"name":"spr_monster","path":"sprites/spr_monster/spr_monster.yy",},"order":6,},
+    {"id":{"name":"obj_cut","path":"objects/obj_cut/obj_cut.yy",},"order":6,},
     {"id":{"name":"Road_cg","path":"rooms/Road_cg/Road_cg.yy",},"order":5,},
     {"id":{"name":"spr_shadow","path":"sprites/spr_shadow/spr_shadow.yy",},"order":0,},
     {"id":{"name":"spr_grass2","path":"sprites/spr_grass2/spr_grass2.yy",},"order":7,},
@@ -41,6 +42,7 @@
     {"id":{"name":"spr_DeadBIRD","path":"sprites/spr_DeadBIRD/spr_DeadBIRD.yy",},"order":3,},
     {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":2,},
     {"id":{"name":"obj_Tree","path":"objects/obj_Tree/obj_Tree.yy",},"order":1,},
+    {"id":{"name":"spr_cover","path":"sprites/spr_cover/spr_cover.yy",},"order":8,},
     {"id":{"name":"spr_pile_big_sign","path":"sprites/spr_pile_big_sign/spr_pile_big_sign.yy",},"order":7,},
     {"id":{"name":"obj_initial","path":"objects/obj_initial/obj_initial.yy",},"order":7,},
     {"id":{"name":"obj_dialogf2","path":"objects/obj_dialogf2/obj_dialogf2.yy",},"order":4,},
@@ -76,6 +78,7 @@
     {"id":{"name":"spr_Intestines","path":"sprites/spr_Intestines/spr_Intestines.yy",},"order":4,},
     {"id":{"name":"font_Dialog","path":"fonts/font_Dialog/font_Dialog.yy",},"order":0,},
     {"id":{"name":"spr_Road_CG","path":"sprites/spr_Road_CG/spr_Road_CG.yy",},"order":0,},
+    {"id":{"name":"Face_monster","path":"rooms/Face_monster/Face_monster.yy",},"order":6,},
     {"id":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},"order":0,},
   ],
   "Options": [
@@ -98,12 +101,13 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Road_cg","path":"rooms/Road_cg/Road_cg.yy",},},
     {"roomId":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},},
     {"roomId":{"name":"Forest_cg","path":"rooms/Forest_cg/Forest_cg.yy",},},
+    {"roomId":{"name":"Road_cg","path":"rooms/Road_cg/Road_cg.yy",},},
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
     {"roomId":{"name":"Forest_run","path":"rooms/Forest_run/Forest_run.yy",},},
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"roomId":{"name":"Face_monster","path":"rooms/Face_monster/Face_monster.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
