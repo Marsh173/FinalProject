@@ -72,6 +72,7 @@
     {"id":{"name":"spr_monsterMove","path":"sprites/spr_monsterMove/spr_monsterMove.yy",},"order":5,},
     {"id":{"name":"spr_hand","path":"sprites/spr_hand/spr_hand.yy",},"order":6,},
     {"id":{"name":"obj_bush","path":"objects/obj_bush/obj_bush.yy",},"order":0,},
+    {"id":{"name":"obj_monster","path":"objects/obj_monster/obj_monster.yy",},"order":5,},
     {"id":{"name":"spr_Intestines","path":"sprites/spr_Intestines/spr_Intestines.yy",},"order":4,},
     {"id":{"name":"font_Dialog","path":"fonts/font_Dialog/font_Dialog.yy",},"order":0,},
     {"id":{"name":"spr_Road_CG","path":"sprites/spr_Road_CG/spr_Road_CG.yy",},"order":0,},
