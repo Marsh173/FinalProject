@@ -32,6 +32,7 @@
     {"id":{"name":"spr_roadsign","path":"sprites/spr_roadsign/spr_roadsign.yy",},"order":8,},
     {"id":{"name":"spr_signBig","path":"sprites/spr_signBig/spr_signBig.yy",},"order":9,},
     {"id":{"name":"obj_HeadlessFriends","path":"objects/obj_HeadlessFriends/obj_HeadlessFriends.yy",},"order":6,},
+    {"id":{"name":"spr_Cathy_house","path":"sprites/spr_Cathy_house/spr_Cathy_house.yy",},"order":1,},
     {"id":{"name":"bktGlitch_inline","path":"scripts/bktGlitch_inline/bktGlitch_inline.yy",},"order":1,},
     {"id":{"name":"spr_sofa","path":"sprites/spr_sofa/spr_sofa.yy",},"order":4,},
     {"id":{"name":"spr_pile","path":"sprites/spr_pile/spr_pile.yy",},"order":2,},

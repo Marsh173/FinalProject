@@ -2,7 +2,7 @@ frames ++;
 timer ++;
 if(!fadeout)
 {
-	alpha = max(alpha - 0.02,0);
+	alphaf = max(alpha - 0.02,0);
 }
 
 if(timer > 4*room_speed)
