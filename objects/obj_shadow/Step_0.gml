@@ -10,3 +10,8 @@ if(x < 0)
 {
 	x = 0;
 }
+
+if(global.trigger == true)
+{
+	instance_destroy();
+}

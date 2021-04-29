@@ -2,7 +2,7 @@ frames ++;
 timer ++;
 if(!fadeout)
 {
-	alphaf = max(alpha - 0.02,0);
+	alpha = max(alpha - 0.02,0);
 }
 
 if(timer > 4*room_speed)
@@ -17,4 +17,9 @@ if(fadeout)
 if(alpha = 1)
 {
 	room_goto(Forest_run);
+}
+
+if(global.trigger == true)
+{
+	layer_destroy_instances("Wayout");
 }

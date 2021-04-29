@@ -19,3 +19,8 @@ if(alpha = 1)
 {
 	room_goto(Face_monster);
 }
+
+if(global.trigger == true)
+{
+	instance_destroy();
+}
