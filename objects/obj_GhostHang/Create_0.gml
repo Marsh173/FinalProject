@@ -1,1 +1,1 @@
-y_speed = -3;
+y_speed = -2;

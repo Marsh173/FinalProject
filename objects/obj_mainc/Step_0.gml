@@ -57,6 +57,36 @@ y = clamp(y,sprite_height/2,room_height-(sprite_height/2));
 
 #endregion
 
+#region stamina 
+if(keyboard_check(vk_shift) && global.stamina > 0)
+{
+	global.stamina -= 1;
+	movespeed = 8;
+}
+else
+{
+	movespeed = 4;
+}
+
+if!(keyboard_check(vk_shift))
+{
+	global.stamina += 0.35;
+}
+
+if(global.stamina > 100)
+{
+	global.stamina = 100;
+}
+
+if (global.stamina < 0)
+{
+	global.stamina = 0;
+}
+
+
+#endregion
+
+
 if(room = Forest)
 {
 	timer2 = 0;
