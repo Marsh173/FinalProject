@@ -1,4 +1,4 @@
-
+draw_sprite_ext(spr_cover,0,0,0,room_width,room_height,0,c_black,alpha);
 
 draw_set_font(font_Dialog);
 draw_set_colour(c_white);

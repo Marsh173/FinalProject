@@ -16,10 +16,5 @@ if(fadeout)
 }
 if(alpha = 1)
 {
-	room_goto(Forest_run);
-}
-
-if(global.trigger == true)
-{
-	layer_destroy_instances("Wayout");
+	room_goto(Creepy_Forest);
 }

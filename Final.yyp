@@ -79,7 +79,6 @@
     {"id":{"name":"spr_pile1","path":"sprites/spr_pile1/spr_pile1.yy",},"order":3,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":6,},
     {"id":{"name":"spr_man","path":"sprites/spr_man/spr_man.yy",},"order":7,},
-    {"id":{"name":"Object42","path":"objects/Object42/Object42.yy",},"order":9,},
     {"id":{"name":"obj_tea","path":"objects/obj_tea/obj_tea.yy",},"order":0,},
     {"id":{"name":"spr_Bird","path":"sprites/spr_Bird/spr_Bird.yy",},"order":2,},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":12,},
