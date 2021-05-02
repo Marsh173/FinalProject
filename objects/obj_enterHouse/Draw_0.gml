@@ -1,4 +1,3 @@
-
 draw_set_font(font_Dialog);
 draw_set_colour(c_white);
 draw_set_halign(fa_center);

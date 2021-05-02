@@ -32,7 +32,7 @@
     "path": "folders/Objects/Road.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_lockedDoor",
+  "name": "obj_LockedDoor",
   "tags": [],
   "resourceType": "GMObject",
 }

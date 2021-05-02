@@ -33,7 +33,7 @@
     "path": "folders/Objects/Road.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enterHouse",
+  "name": "obj_EnterHouse",
   "tags": [],
   "resourceType": "GMObject",
 }

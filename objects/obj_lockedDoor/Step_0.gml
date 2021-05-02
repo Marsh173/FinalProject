@@ -1,6 +1,5 @@
 
 
-
 if(distance_to_object(obj_mainc)<20)
 {
 	letter += 0.5;
@@ -17,3 +16,4 @@ else
 	show = "";
 	letter = 0;
 }
+
