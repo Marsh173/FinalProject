@@ -9,6 +9,7 @@
     {"id":{"name":"spr_bush","path":"sprites/spr_bush/spr_bush.yy",},"order":1,},
     {"id":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},"order":1,},
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},"order":10,},
+    {"id":{"name":"obj_enterHouse","path":"objects/obj_enterHouse/obj_enterHouse.yy",},"order":6,},
     {"id":{"name":"obj_shadow","path":"objects/obj_shadow/obj_shadow.yy",},"order":1,},
     {"id":{"name":"obj_gotoRoad","path":"objects/obj_gotoRoad/obj_gotoRoad.yy",},"order":9,},
     {"id":{"name":"spr_faceMonster","path":"sprites/spr_faceMonster/spr_faceMonster.yy",},"order":7,},
@@ -117,6 +118,7 @@
     {"id":{"name":"obj_IsThatBird","path":"objects/obj_IsThatBird/obj_IsThatBird.yy",},"order":10,},
     {"id":{"name":"spr_Road_CG","path":"sprites/spr_Road_CG/spr_Road_CG.yy",},"order":0,},
     {"id":{"name":"Face_monster","path":"rooms/Face_monster/Face_monster.yy",},"order":6,},
+    {"id":{"name":"obj_lockedDoor","path":"objects/obj_lockedDoor/obj_lockedDoor.yy",},"order":7,},
     {"id":{"name":"Living_room","path":"rooms/Living_room/Living_room.yy",},"order":0,},
   ],
   "Options": [

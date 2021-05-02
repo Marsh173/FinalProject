@@ -3,7 +3,7 @@
     "name": "spr_desk",
     "path": "sprites/spr_desk/spr_desk.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
