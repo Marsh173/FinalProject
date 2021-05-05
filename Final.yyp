@@ -32,6 +32,7 @@
     {"id":{"name":"obj_cutMonster","path":"objects/obj_cutMonster/obj_cutMonster.yy",},"order":6,},
     {"id":{"name":"spr_roadblock1","path":"sprites/spr_roadblock1/spr_roadblock1.yy",},"order":5,},
     {"id":{"name":"Road_cg","path":"rooms/Road_cg/Road_cg.yy",},"order":5,},
+    {"id":{"name":"Sprite57","path":"sprites/Sprite57/Sprite57.yy",},"order":8,},
     {"id":{"name":"spr_shadow","path":"sprites/spr_shadow/spr_shadow.yy",},"order":0,},
     {"id":{"name":"obj_holder","path":"objects/obj_holder/obj_holder.yy",},"order":1,},
     {"id":{"name":"spr_grass2","path":"sprites/spr_grass2/spr_grass2.yy",},"order":7,},
