@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Creepy_Forest",
-    "path": "folders/Objects/Creepy_Forest.yy",
+    "name": "Forest_run",
+    "path": "folders/Objects/Forest_run.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_gotoRoad",
