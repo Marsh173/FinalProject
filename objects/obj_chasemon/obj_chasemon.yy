@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "spr_chasem",
+    "path": "sprites/spr_chasem/spr_chasem.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Forest_run.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_holder",
+  "name": "obj_chasemon",
   "tags": [],
   "resourceType": "GMObject",
 }
