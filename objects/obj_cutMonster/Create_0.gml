@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 frames = 0;
-alpha = 1;
+alpha2 = 1;
 fadeout = 0;
 
-depth = -2000
+depth = -1800

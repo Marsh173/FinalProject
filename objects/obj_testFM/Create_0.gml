@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_speed = 0;
-visible = false;
+image_speed = 1;
 
 depth = -2000;

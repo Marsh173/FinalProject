@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_speed = 0;
-visible = false;
-
-depth = -2000;
+//if(alpha = 1)
+//{
+//   draw_sprite(spr_faceMonster,0,x,1700);
+//}
